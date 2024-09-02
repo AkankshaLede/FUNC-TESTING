@@ -46,13 +46,13 @@ After cloning, open Visual Studio Code. Navigate to the terminal and open the cu
 - **Push Changes to Repository:**
   To push your committed changes to the repository, use:
   ```bash
-  git push origin main
+  git push origin main/master
   ```
 
 - **Fetch Data from GitHub:**
   To fetch and merge changes from the GitHub repository to your local directory, use:
   ```bash
-  git pull origin main
+  git pull origin main/master
   ```
 
 
