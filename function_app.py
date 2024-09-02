@@ -26,6 +26,7 @@ def http_trigger(req: func.HttpRequest) -> func.HttpResponse:
     
 
    '''
+
 import azure.functions as func
 import logging
 
