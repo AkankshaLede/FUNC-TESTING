@@ -65,9 +65,6 @@ def http_trigger(req: func.HttpRequest) -> func.HttpResponse:
         )
  
 
-
-
-
  #new file for salary
 @app.route(route = "http_trigger_salary")
 def http_trigger_salary(req: func.HttpRequest) -> func.HttpResponse:
